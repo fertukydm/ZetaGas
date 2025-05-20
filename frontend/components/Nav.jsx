@@ -13,7 +13,7 @@ const Navbar = () => {
       <div className="navbar-container">
         {/* Logo + Marca */}
         <div className="navbar-logo">
-          <img src="/img/logo-zgas.png" alt="Z Gas Logo" />
+          <img src="/public/logo-zgas.png" alt="Z Gas Logo" />
           <span>Z Gas</span>
         </div>
 
